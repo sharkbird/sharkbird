@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://api.daily.dev/devcards/09cce76a310b4d798b9dbe9b0f17af87.png?r=wjz
+
+<a href="https://app.daily.dev/sharkbird"><img src="https://api.daily.dev/devcards/09cce76a310b4d798b9dbe9b0f17af87.png?r=wjz" width="400" alt="Jason M Ripley's Dev Card"/></a>
+
 <!--
 **sharkbird/sharkbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
